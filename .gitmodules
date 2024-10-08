@@ -1,0 +1,3 @@
+[submodule "shiny_django_proxy_oidc"]
+	path = shiny_django_proxy_oidc
+	url = https://github.com/k0uneli/shiny_django_proxy_oidc
