@@ -1,5 +1,3 @@
-# clinical_dashboards_sem2_2024
-clinical dashboards git repo for 2024 sem 2 intake
+# Clinical Dashboards Semester 2 2024
 
-
-[will add more info once started the project]
+Welcome to our repository!
